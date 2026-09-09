@@ -30,4 +30,4 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/guiolizx/GameShelf.git
-cd PixelVault
+cd GameShelf
